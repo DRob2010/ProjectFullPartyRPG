@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FullPartyRPG/FullPartyRPG.vcxproj" Id="2b265912-5080-4386-bf31-15e64e4fadcf">
+    <BuildType Solution="Debug|x64" Project="Release" />
+  </Project>
+</Solution>

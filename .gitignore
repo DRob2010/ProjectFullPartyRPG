@@ -1,0 +1,29 @@
+# Visual Studio user and cache files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output and intermediate files
+[Bb]uild/
+[Bb]uild[Ll]og/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+ipch/
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.iobj
+*.ipdb
+*.tlog/
+*.lastbuildstate
+
+# Generated binaries
+*.exe
+*.dll
+*.lib
+*.exp
