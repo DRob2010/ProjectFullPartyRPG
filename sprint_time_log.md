@@ -2,7 +2,7 @@
 
 Name: Dawson Robinson
 
-Sprint #1: Mobile App, All-In-One Calculator
+Sprint #3: C++, RPG
 
 ## Instructions
 
@@ -26,17 +26,17 @@ The expected minimum amount of time each Sprint for each category is as follows:
 
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
-|   10/5       |    11:30      |   MTG     |Class Time                                  |    60         |
-|   10/7       |    11:30      |   MTG     |Class Time                                  |    60         |
-|   10/8       |    9:00       |   IM      |Created the Project and started on the player|   120        |
-|   10/9       |    11:30      |   MTG     |Class Time                                  |    60         |
-|   10/9       |    12:45      |   TP      |Designed the front end sign in page         |    120        |
-|   10/10      |    9:00       |   IM      |Finished player actions and controls        |    180        |
-|   10/12      |    11:30      |   MTG     |Class Time                                  |    60         |
-|   10/12      |    1:30 pm    |   IM      |Designed an enemy to attack the player      |    120        |
-|   10/14      |    11:30      |   MTG     |Class Time                                  |    60         |
-|   10/14      |    1:45 pm    |   TP      |Connected front end Sign In to backend      |    120        |
-|   10/15      |    10:00      |   IM      |Created an envoirment and menu              |    180        |
+|   10/19      |    11:30      |   MTG     |Class Time                                  |    60         |
+|   10/21      |    11:30      |   MTG     |Class Time                                  |    60         |
+|   10/22      |    9:00       |   IM      |Created the Project and character classes   |    120        |
+|   10/23      |    11:30      |   MTG     |Class Time                                  |    60         |
+|   10/23      |    12:45      |   TP      |Made the courses draggable to semseters     |    120        |
+|   10/24      |    9:00       |   IM      |Finished making the character classes       |    180        |
+|   10/26      |    11:30      |   MTG     |Class Time                                  |    60         |
+|   10/26      |    1:30 pm    |   IM      |Created and tested combat with enemies      |    120        |
+|   10/28      |    11:30      |   MTG     |Class Time                                  |    60         |
+|   10/28      |    1:45 pm    |   TP      |Created a prerequisites alert               |    120        |
+|   10/29      |    10:00      |   IM      |Created a dungeon map and different room types|  180        |
 
 _Note: Add more rows as needed._
 
